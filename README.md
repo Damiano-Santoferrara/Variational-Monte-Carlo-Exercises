@@ -5,7 +5,7 @@ Please be sure to have installed the following packages:
 - numpy
 - matplotlib.pyplot
 
-##Code description
+## Code description
 **Exercise_1_harmonic_oscillator**: Given a trial wave function with a parameter alpha, find ground state energy of quantum harmonic oscillator and optimize alpha, using VMC to calculate the energy.
 **Exercise_2_harmonic_oscillator_thermalization**: Adding thermalization of VMC calculations on the previous exercise.
 **Exercise_3_4He**: Given a trial wave function with three fixed parameters a, beta, gamma, compute the ground state energy of the Helium nucleus using VMC method. Thermalization is also included.
