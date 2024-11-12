@@ -4,6 +4,7 @@ Here I present three applications of the Variational Monte Carlo Method.
 Please be sure to have installed the following packages:
 - numpy
 - matplotlib.pyplot
+- numba
 
 ## Code description
 **Exercise_1_harmonic_oscillator**: Given a trial wave function with a parameter alpha, find ground state energy of quantum harmonic oscillator and optimize alpha, using VMC to calculate the energy.
