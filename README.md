@@ -14,4 +14,4 @@ Please be sure to have installed the following packages:
 
 **Exercise_3_4He_optimization**: Given a trial wave function with three free parameters a, beta, gamma, compute the ground state energy of the Helium nucleus and optimize for the best values of a, beta, gamma. VMC is used to compute the energy. Thermalization is also included.
 
-**Exercise_4_4He_benchmark**: Run the previous algorithm multiple times to analyze the time of execution
+**Exercise_4_4He_benchmark**: Run the Exercise 2 algorithm multiple times with a different number of Metropolis steps to analyze the time of execution.
